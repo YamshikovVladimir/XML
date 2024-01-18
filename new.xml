@@ -1,0 +1,10 @@
+<INFO>
+    <FIO name="name">YAMSHICOV VLADIMIR DMITRIEVICH</FIO>
+	<AGE name="age">24</AGE>
+	<PETS.AND.ITS.NAME>
+        <DOG name="PetName">VESTA</DOG>
+        <BEAR name="PetName">SAMBO</BEAR>
+    </PETS.AND.ITS.NAME>
+	<DESIRED.SALARY>30000</DESIRED.SALARY>
+</INFO>
+  
